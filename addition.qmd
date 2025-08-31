@@ -6,4 +6,9 @@ To add numbers in R use `+`
 
 ```{r}
 1 + 1
+# Basic example
+message <- readline(prompt = "Enter your message: ")
+print(paste("You entered:", message))
+
+
 ```
