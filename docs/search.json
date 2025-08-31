@@ -11,7 +11,7 @@
     "href": "addition.html",
     "title": "Adding numbers in R",
     "section": "",
-    "text": "To add numbers in R use +\n\n1 + 1\n\n[1] 2"
+    "text": "To add numbers in R use +\n\n1 + 1\n\n[1] 2\n\n# Basic example\nmessage &lt;-   5 # readline(prompt = \"Enter your message: \")\nprint(paste(\"You entered:\", message))\n\n[1] \"You entered: 5\""
   },
   {
     "objectID": "index.html",
